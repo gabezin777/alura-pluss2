@@ -17,24 +17,16 @@ body {
    font-family: var(--fonte-principal);
    font-size: 16px;
    font-weight: 400;
-
-
 }
 
 
 * {
-
-
    margin: 0;
    padding: 0;
-
-
 }
 
 
 .principal {
-
-
    background-image: url("img/Background.png");
    background-repeat: no-repeat;
    background-size: contain;
@@ -92,8 +84,6 @@ body {
 .secundario {
    align-items: center;
    margin: 0 10em;
-
-
 }
 
 
@@ -112,15 +102,11 @@ body {
    font-size: 48px;
    color: var(--branco-principal);
    margin-bottom: 0.1em;
-
-
 }
 
 
 .descrica__texto {
    color: var(--cinza-secundario);
-
-
 }
 
 
